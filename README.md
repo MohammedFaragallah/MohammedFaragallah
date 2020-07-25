@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hi there 👋 
+#### My name is Mohammed
+
+I'm a Software engineer with 2+ years of experience in web development, and 10+ years of multi-faceted background in Information technology (Technical support, Networking, Systems administration,...).
+
+Tech-savvy been around computers since I can remember I love solving problems, learning new things, and the company of smart people.
+
+Software engineer specializing in web development. Experienced with all stages of the development cycle for dynamic web projects. Well-versed in numerous Libraries/Frameworks. Strong background in project management and customer relations.
+
+I don't consider myself to be an expert with every topic, but I'm extremely passionate, Obsessed with writing clean performant code and building things people use.
 
 <!--
 **MohammedFaragallah/MohammedFaragallah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
