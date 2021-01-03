@@ -1,7 +1,11 @@
 ### Hi there 👋 
 #### My name is Mohammed
 
-I'm a Software engineer with 2+ years of experience in web development, and 10+ years of multi-faceted background in Information technology (Technical support, Networking, Systems administration,...).
+
+[![Gmail Badge](https://img.shields.io/badge/-ffragalla@gmail.com-3370cc?style=flat&logo=Gmail&logoColor=white&link=mailto:agfoccus@gmail.com)][mail]
+[![NPM Badge](https://img.shields.io/badge/-@fregos-3370cc?style=flat&logo=npm&logoColor=white&link=https://www.npmjs.com/~fregos)][npm]
+
+I'm a Software engineer with 3+ years of experience in web development, and 10+ years of multi-faceted background in Information technology (Technical support, Networking, Systems administration,...).
 
 Tech-savvy been around computers since I can remember I love solving problems, learning new things, and the company of smart people.
 
@@ -23,3 +27,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<p align="center">
+  <img
+      align="center"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammedFaragallah&layout=compact"
+    />
+  <img
+      align="center"
+      height="165"
+      src="https://github-readme-stats.vercel.app/api?username=MohammedFaragallah&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues"
+    />
+</p>
+
+[linkedin]: https://www.linkedin.com/in/mohammed-faragallah/
+[mail]: mailto:ffragalla@gmail.com
+[npm]: https://www.npmjs.com/~fregos
