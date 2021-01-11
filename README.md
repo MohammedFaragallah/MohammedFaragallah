@@ -5,6 +5,12 @@
 [![Gmail Badge](https://img.shields.io/badge/-ffragalla@gmail.com-3370cc?style=flat&logo=Gmail&logoColor=white&link=mailto:agfoccus@gmail.com)][mail]
 [![NPM Badge](https://img.shields.io/badge/-@fregos-3370cc?style=flat&logo=npm&logoColor=white&link=https://www.npmjs.com/~fregos)][npm]
 
+https://fregoclient.herokuapp.com
+
+https://fregoadmin.herokuapp.com
+
+https://expo.io/@mohammedfaragallah/projects/efresh-betak
+
 I'm a Software engineer with 3+ years of experience in web development, and 10+ years of multi-faceted background in Information technology (Technical support, Networking, Systems administration,...).
 
 Tech-savvy been around computers since I can remember I love solving problems, learning new things, and the company of smart people.
