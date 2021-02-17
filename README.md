@@ -9,7 +9,7 @@ https://fregoclient.herokuapp.com
 
 https://fregoadmin.herokuapp.com
 
-https://expo.io/@mohammedfaragallah/projects/efresh-betak
+https://expo.io/@mohammedfaragallah/projects
 
 I'm a Software engineer with 3+ years of experience in web development, and 10+ years of multi-faceted background in Information technology (Technical support, Networking, Systems administration,...).
 
