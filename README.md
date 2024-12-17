@@ -11,7 +11,7 @@ https://fregoadmin.herokuapp.com
 
 https://expo.io/@mohammedfaragallah/projects
 
-I'm a Software engineer with 3+ years of experience in web development, and 10+ years of multi-faceted background in Information technology (Technical support, Networking, Systems administration,...).
+I'm a Software engineer since 2014, and 10+ years of multi-faceted background in Information technology (Technical support, Networking, Systems administration,...).
 
 Tech-savvy been around computers since I can remember I love solving problems, learning new things, and the company of smart people.
 
